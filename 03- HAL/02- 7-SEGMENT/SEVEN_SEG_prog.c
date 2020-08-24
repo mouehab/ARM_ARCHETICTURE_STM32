@@ -44,4 +44,6 @@ ERROR_STATUS SvnSeg_enuDisplay(u8 u8SegIndex_Cpy, u8 u8Displayed_Number_Cpy)
         MGPIO_VidSetPinValue(str7SegCfg[u8SegIndex_Cpy].u8Pin_CM_PORT, str7SegCfg[u8SegIndex_Cpy].u8Pin_CM,
         GET_BIT(seg[u8Displayed_Number_Cpy],7));
     }
+	return enuErrorStatus ;
+
 }

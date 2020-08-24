@@ -1,9 +1,8 @@
-/******************************************************/
-/* Author  : Muhammed Ehab                            */
-/* Date    : 24/8/2020                                */
-/* File    : DIO_INTERFACE                            */
-/* Version : V01                                      */
-/******************************************************/
+/*********************************************************************************/
+/* Author    : Ahmed Atia                                                        */
+/* Version   : V01                                                               */
+/* Date      : 12 August 2020                                                    */
+/*********************************************************************************/
 #ifndef DIO_INTERFACE_H
 #define DIO_INTERFACE_H
 
@@ -12,7 +11,7 @@
 
 #define GPIOA   0
 #define GPIOB   1
-#define GPIOC   20
+#define GPIOC   2
 
 #define PIN0    0
 #define PIN1    1

@@ -11,7 +11,7 @@
 /*  modes :   COMMON_ANODE                  */
 /*            COMMON_CATHOD                 */
 /********************************************/
-#define SEV_MODE        COMMON_ANODE
+#define SEV_MODE        COMMON_CATHODE
 
 #define MAX_NB_OF_7SEG      2
 
